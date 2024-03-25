@@ -9,4 +9,6 @@ settings
 
 
 TOOLS
-React-Router-DOM
+React-Router-DOM - INSTALLED
+SASS
+React-Hook-Form - INSTALLED
